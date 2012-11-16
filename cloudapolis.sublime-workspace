@@ -462,14 +462,6 @@
 				"buffer_size": 1590,
 				"line_ending": "Unix"
 			}
-		},
-		{
-			"file": "application/views/templates/header.php",
-			"settings":
-			{
-				"buffer_size": 211,
-				"line_ending": "Unix"
-			}
 		}
 	],
 	"build_system": "",
@@ -500,8 +492,8 @@
 	},
 	"file_history":
 	[
-		"/opt/lampp/htdocs/cloudapolis/application/.htaccess",
 		"/opt/lampp/htdocs/cloudapolis/application/views/templates/header.php",
+		"/opt/lampp/htdocs/cloudapolis/application/.htaccess",
 		"/opt/lampp/htdocs/blog/application/controllers/blog_controller.php",
 		"/opt/lampp/htdocs/blog/application/views/blog_view.php",
 		"/opt/lampp/htdocs/blog/application/config/autoload.php",
@@ -713,7 +705,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -843,32 +835,6 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 462.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "application/views/templates/header.php",
-					"settings":
-					{
-						"buffer_size": 211,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								211,
-								211
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
