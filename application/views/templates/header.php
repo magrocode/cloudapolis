@@ -1,6 +1,6 @@
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="application/css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="<?= base_url('css/bootstrap.css'); ?>">
 	<title>Cloudapolis</title>
 </head>
 <body>

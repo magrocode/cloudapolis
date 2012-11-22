@@ -500,8 +500,8 @@
 	},
 	"file_history":
 	[
-		"/opt/lampp/htdocs/cloudapolis/application/.htaccess",
 		"/opt/lampp/htdocs/cloudapolis/application/views/templates/header.php",
+		"/opt/lampp/htdocs/cloudapolis/application/.htaccess",
 		"/opt/lampp/htdocs/blog/application/controllers/blog_controller.php",
 		"/opt/lampp/htdocs/blog/application/views/blog_view.php",
 		"/opt/lampp/htdocs/blog/application/config/autoload.php",
@@ -713,7 +713,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -859,8 +859,8 @@
 						"selection":
 						[
 							[
-								211,
-								211
+								0,
+								0
 							]
 						],
 						"settings":
