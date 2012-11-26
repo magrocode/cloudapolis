@@ -4,6 +4,38 @@
 		"selected_items":
 		[
 			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"jum",
+				"jumbocloud"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"he",
+				"min-height"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
 				"u",
 				"ul	Tag"
 			],
@@ -60,10 +92,6 @@
 				"usuario_id"
 			],
 			[
-				"margin",
-				"margin-right"
-			],
-			[
 				"curre",
 				"current_comunidad"
 			],
@@ -94,10 +122,6 @@
 			[
 				"usuar",
 				"usuario_autorizado"
-			],
-			[
-				"padd",
-				"padding"
 			],
 			[
 				"curren",
@@ -136,24 +160,8 @@
 				"submit"
 			],
 			[
-				"mar",
-				"margin-bottom"
-			],
-			[
 				"back",
 				"background-color"
-			],
-			[
-				"paddi",
-				"padding"
-			],
-			[
-				"he",
-				"height"
-			],
-			[
-				"padding",
-				"padding-bottom"
 			],
 			[
 				"pa",
@@ -238,10 +246,6 @@
 			[
 				"unidad",
 				"unidad_id"
-			],
-			[
-				"bac",
-				"background	background-color: transparent"
 			],
 			[
 				"nav",
@@ -427,7 +431,7 @@
 			"file": "application/controllers/paginas.php",
 			"settings":
 			{
-				"buffer_size": 347,
+				"buffer_size": 605,
 				"line_ending": "Unix"
 			}
 		},
@@ -435,7 +439,7 @@
 			"file": "application/views/paginas/about.php",
 			"settings":
 			{
-				"buffer_size": 175,
+				"buffer_size": 233,
 				"line_ending": "Unix"
 			}
 		},
@@ -443,23 +447,7 @@
 			"file": "application/views/paginas/home.php",
 			"settings":
 			{
-				"buffer_size": 39,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "application/controllers/welcome.php",
-			"settings":
-			{
-				"buffer_size": 770,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "application/config/routes.php",
-			"settings":
-			{
-				"buffer_size": 1590,
+				"buffer_size": 451,
 				"line_ending": "Unix"
 			}
 		},
@@ -467,7 +455,55 @@
 			"file": "application/views/templates/header.php",
 			"settings":
 			{
-				"buffer_size": 211,
+				"buffer_size": 804,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/templates/footer.php",
+			"settings":
+			{
+				"buffer_size": 7,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/custom.css",
+			"settings":
+			{
+				"buffer_size": 404,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/codelious/railsprojects/comunidadmanager/app/views/layouts/_header.html.erb",
+			"settings":
+			{
+				"buffer_size": 177,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/codelious/railsprojects/comunidadmanager/app/views/layouts/_navbar_public.html.erb",
+			"settings":
+			{
+				"buffer_size": 592,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/codelious/railsprojects/comunidadmanager/app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 1012,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/codelious/railsprojects/comunidadmanager/app/views/paginas/home.html.erb",
+			"settings":
+			{
+				"buffer_size": 637,
 				"line_ending": "Unix"
 			}
 		}
@@ -475,7 +511,7 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 332.0,
 		"selected_items":
 		[
 			[
@@ -483,7 +519,7 @@
 				"Snippet: PStore.new( .. )"
 			]
 		],
-		"width": 575.0
+		"width": 392.0
 	},
 	"console":
 	{
@@ -500,8 +536,13 @@
 	},
 	"file_history":
 	[
-		"/opt/lampp/htdocs/cloudapolis/application/views/templates/header.php",
+		"/opt/lampp/htdocs/cloudapolis/css/paginas/home.css",
+		"/opt/lampp/htdocs/cloudapolis/css/custom.css",
+		"/home/codelious/railsprojects/comunidadmanager/app/views/layouts/_shim.html.erb",
+		"/opt/lampp/htdocs/cloudapolis/application/config/routes.php",
+		"/opt/lampp/htdocs/cloudapolis/application/controllers/welcome.php",
 		"/opt/lampp/htdocs/cloudapolis/application/.htaccess",
+		"/opt/lampp/htdocs/cloudapolis/application/views/templates/header.php",
 		"/opt/lampp/htdocs/blog/application/controllers/blog_controller.php",
 		"/opt/lampp/htdocs/blog/application/views/blog_view.php",
 		"/opt/lampp/htdocs/blog/application/config/autoload.php",
@@ -622,12 +663,7 @@
 		"/home/codelious/railsprojects/comunidadmanager/app/views/paginas/wellcome.html.erb",
 		"/home/codelious/railsprojects/comunidadmanager/app/views/comunidads/edit.html.erb",
 		"/home/codelious/railsprojects/comunidadmanager/config/locales/es.yml",
-		"/home/codelious/railsprojects/comunidadmanager/config/locales/es-CL.yml",
-		"/home/codelious/railsprojects/comunidadmanager/app/helpers/sessions_helper.rb",
-		"/home/codelious/railsprojects/comunidadmanager/spec/support/utilities.rb",
-		"/home/codelious/railsprojects/comunidadmanager/spec/requests/paginas_comunidads_spec.rb",
-		"/home/codelious/railsprojects/comunidadmanager/spec/requests/paginas_unidad_spec.rb",
-		"/home/codelious/railsprojects/comunidadmanager/spec/requests/paginas_tipounidads_spec.rb"
+		"/home/codelious/railsprojects/comunidadmanager/config/locales/es-CL.yml"
 	],
 	"find":
 	{
@@ -721,20 +757,21 @@
 					"file": "application/controllers/paginas.php",
 					"settings":
 					{
-						"buffer_size": 347,
+						"buffer_size": 605,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								184,
-								184
+								475,
+								475
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -747,15 +784,15 @@
 					"file": "application/views/paginas/about.php",
 					"settings":
 					{
-						"buffer_size": 175,
+						"buffer_size": 233,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								100,
-								110
+								131,
+								131
 							]
 						],
 						"settings":
@@ -773,15 +810,15 @@
 					"file": "application/views/paginas/home.php",
 					"settings":
 					{
-						"buffer_size": 39,
+						"buffer_size": 451,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								34,
-								34
+								444,
+								444
 							]
 						],
 						"settings":
@@ -796,18 +833,18 @@
 				},
 				{
 					"buffer": 3,
-					"file": "application/controllers/welcome.php",
+					"file": "application/views/templates/header.php",
 					"settings":
 					{
-						"buffer_size": 770,
+						"buffer_size": 804,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								680,
-								680
+								611,
+								611
 							]
 						],
 						"settings":
@@ -816,25 +853,25 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 132.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "application/config/routes.php",
+					"file": "application/views/templates/footer.php",
 					"settings":
 					{
-						"buffer_size": 1590,
+						"buffer_size": 7,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1437,
-								1437
+								7,
+								7
 							]
 						],
 						"settings":
@@ -842,17 +879,49 @@
 							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 462.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 5,
-					"file": "application/views/templates/header.php",
+					"file": "css/custom.css",
 					"settings":
 					{
-						"buffer_size": 211,
+						"buffer_size": 404,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								319,
+								319
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "/home/codelious/railsprojects/comunidadmanager/app/views/layouts/_header.html.erb",
+					"settings":
+					{
+						"buffer_size": 177,
 						"regions":
 						{
 						},
@@ -865,7 +934,87 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/codelious/railsprojects/comunidadmanager/app/views/layouts/_navbar_public.html.erb",
+					"settings":
+					{
+						"buffer_size": 592,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								330,
+								330
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/codelious/railsprojects/comunidadmanager/app/views/layouts/application.html.erb",
+					"settings":
+					{
+						"buffer_size": 1012,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								449,
+								449
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 168.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/home/codelious/railsprojects/comunidadmanager/app/views/paginas/home.html.erb",
+					"settings":
+					{
+						"buffer_size": 637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -893,6 +1042,12 @@
 				0,
 				1,
 				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
 			]
 		],
 		"cols":
@@ -903,6 +1058,7 @@
 		"rows":
 		[
 			0.0,
+			0.905446293495,
 			1.0
 		]
 	},

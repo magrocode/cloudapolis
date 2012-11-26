@@ -1,9 +1,10 @@
-<h1>Acerca de</h1>
-<p>Esta aplicacion esta en desarrollo actualmente.</p>
+<h1>Acerca de Cloudapolis</h1>
+<p>Cloudapolis es una aplicacion como servicio desarrollada y mantenida por MagroCode &copy;</p>
+<p></p>
 <p>
-	 Los desarrolladores implicados:
+	 Desarrolladores:
 	 <ul>
-	 	<li>Claudio R.</li>
-	 	<li>Mario E.</li>
+	 	<li>Claudio Rosales</li>
+	 	<li>Mario Espinoza</li>
 	 </ul>
 </p>
