@@ -22,7 +22,7 @@
 				<?= anchor(base_url('index.php/paginas/about'), 'Acerca de' ); ?>
 			</li>
 			<li>
-				<a href="#">Contact</a>
+				<a href="#">Contacto</a>
 			</li>
 			<li>
 				<a href="#">Acceder</a>

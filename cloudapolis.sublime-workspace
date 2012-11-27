@@ -447,7 +447,7 @@
 			"file": "application/views/paginas/home.php",
 			"settings":
 			{
-				"buffer_size": 451,
+				"buffer_size": 353,
 				"line_ending": "Unix"
 			}
 		},
@@ -455,7 +455,7 @@
 			"file": "application/views/templates/header.php",
 			"settings":
 			{
-				"buffer_size": 804,
+				"buffer_size": 805,
 				"line_ending": "Unix"
 			}
 		},
@@ -463,7 +463,7 @@
 			"file": "application/views/templates/footer.php",
 			"settings":
 			{
-				"buffer_size": 7,
+				"buffer_size": 69,
 				"line_ending": "Unix"
 			}
 		},
@@ -471,7 +471,7 @@
 			"file": "css/custom.css",
 			"settings":
 			{
-				"buffer_size": 404,
+				"buffer_size": 405,
 				"line_ending": "Unix"
 			}
 		},
@@ -810,15 +810,15 @@
 					"file": "application/views/paginas/home.php",
 					"settings":
 					{
-						"buffer_size": 451,
+						"buffer_size": 353,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								444,
-								444
+								346,
+								346
 							]
 						],
 						"settings":
@@ -836,15 +836,15 @@
 					"file": "application/views/templates/header.php",
 					"settings":
 					{
-						"buffer_size": 804,
+						"buffer_size": 805,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								611,
-								611
+								687,
+								687
 							]
 						],
 						"settings":
@@ -863,15 +863,15 @@
 					"file": "application/views/templates/footer.php",
 					"settings":
 					{
-						"buffer_size": 7,
+						"buffer_size": 69,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7,
-								7
+								49,
+								49
 							]
 						],
 						"settings":
@@ -889,15 +889,15 @@
 					"file": "css/custom.css",
 					"settings":
 					{
-						"buffer_size": 404,
+						"buffer_size": 405,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								319,
-								319
+								276,
+								276
 							]
 						],
 						"settings":

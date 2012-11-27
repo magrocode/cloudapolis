@@ -9,14 +9,14 @@
 }
 
 .jumbotron h1 {
-  font-size:72px;
+  font-size: 72px;
   line-height: 1;
 }
 
 
 .jumbocloud {
 	background: url('../img/cloudapolis-600x403.png') no-repeat top center;
-	height: 405px;
+	height: 205px;
 	text-align: center; 	
 	padding-top: 220px;
 }
